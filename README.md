@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with Create React App, then I modified app.js and app.css to create a random image generator. This has a variety of potential use cases.
 
 ## Available Scripts
 
